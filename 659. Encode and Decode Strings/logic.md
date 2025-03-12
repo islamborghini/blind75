@@ -8,5 +8,6 @@
     wordi - word from the given string array<br><br>
     In order to decode the word we simply find for a '#', knowing integer before is the length of the word. Then, we simply add a string of length elements starting from the "#". 
 </p>
-
+<p>Time complexity O(m+n), where m - sum of all strings</p>
+<p>Space complexity O(n)</p>
 
